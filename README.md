@@ -1,17 +1,18 @@
 ### Hi there 👋
  ## My name is Raul Vaz
+ 
+ Olá meu nome é Raul Vaz. 
 <!--
 **raul-v-lima/raul-v-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... go projects alongside other tecnologies. 
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50" />
 
-
-- 🌱 I’m currently learning ... Go and Docker  
+     Estou  trabalhando com GO e Docker atualmente, entre outras tecnologias: MERN Stack.
+- 🌱 I’m currently working with ... Go and Docker  
+ 
 
 
 
