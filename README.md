@@ -1,7 +1,7 @@
 ### Hi there 👋
  ## My name is Raul Vaz
  
- Olá meu nome é Raul Vaz. 
+ Olá, meu nome é Raul Vaz. 
 <!--
 **raul-v-lima/raul-v-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
