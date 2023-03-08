@@ -1,5 +1,5 @@
 ### Hi there 👋
- ## My name is Raul Vaz. I'm a backend developer working with GO, C# ando MERN Stack.
+ ## My name is Raul Vaz. I'm a backend developer working with GO, C# and MERN Stack.
  
  Olá, meu nome é Raul Vaz. 
 <!--
