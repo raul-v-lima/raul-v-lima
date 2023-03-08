@@ -11,11 +11,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50" />
 
 Atualmente desenvolvendo em  GO e Docker. Além disso , também realizei projetos MERN Stack.
-- 🌱 I’m currently working with ... Go and Docker  
+Currently working with ... Go and Docker  
   
 Anteriomente desenvolvi projetos em C# , Windowsforms, SQL Server para Desktop,CodeIgniter,PHP.
-
-
 
 <div>
 <a href="https://github.com/raul-v-lima">
